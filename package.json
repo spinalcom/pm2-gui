@@ -50,8 +50,7 @@
     "pm2-axon": "^2.0.11",
     "pm2-axon-rpc": "^0.3.6",
     "socket.io": "^1.4.8",
-    "socket.io-client": "^1.4.8",
-    "windows-cpu": "^0.1.4"
+    "socket.io-client": "^1.4.8"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
